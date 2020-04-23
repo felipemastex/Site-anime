@@ -1,0 +1,23 @@
+.buttonStyle {
+  background-color: red;
+  text-decoration: none;
+  width: 80%;
+  height: 50px;
+  margin: 30px;
+  border-radius: 8px;
+  font-size: 15px;
+  color: white;
+  transition: filter 0.2s;
+}
+
+.buttonStyle:hover {
+  filter: brightness(90%);
+}
+
+.signStyle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+}

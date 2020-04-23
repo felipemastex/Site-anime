@@ -1,0 +1,31 @@
+.containerM {
+  background-color: #350069;
+}
+
+.containerLancamento {
+  box-sizing: border-box;
+}
+
+.allContainer {
+  width: 90%;
+  margin: 0px 80px;
+  height: 280vh;
+}
+.allContainer section {
+  background-color: #1f003d;
+  padding: 20px;
+  border-radius: 4px;
+  border: 1px solid #121212;
+  border-radius: 8px;
+}
+.allContainer section div h2 {
+  padding: 5px;
+  border-radius: 4px;
+  border-left: 1px solid green;
+  padding: 20px;
+  color: white;
+}
+
+.lastAnimes {
+  margin-top: 20px;
+}

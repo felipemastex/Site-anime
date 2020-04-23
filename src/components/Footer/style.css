@@ -1,0 +1,13 @@
+.footerContainer {
+  position: relative;
+  top: 0px;
+  background-color: black;
+  width: 100%;
+  padding: 20px;
+}
+
+.footerContainer h3 {
+  color: white;
+  text-align: center;
+  font-size: 30px;
+}

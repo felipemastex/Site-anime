@@ -1,0 +1,43 @@
+.containerLancamento {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.containerLancamento a {
+  text-decoration: none;
+}
+
+.galeryContainer {
+  position: relative;
+  width: 210px;
+
+  height: auto;
+  margin-left: 15px;
+  margin-right: 0px;
+}
+.containerLancamento a img {
+  width: 210px;
+  height: 200px;
+  margin: 40px 50px 10px 0px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.containerLancamento a img:hover {
+  opacity: 50%;
+}
+
+.containerLancamento a div {
+  font-size: 18px;
+  font-weight: bold;
+  position: absolute;
+  bottom: 15px;
+  border-radius: 10px;
+  background: rgb(0, 0, 0); /* Fallback color */
+  background: rgba(0, 0, 0, 0.5); /* Black background with 0.5 opacity */
+  width: 100%;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}

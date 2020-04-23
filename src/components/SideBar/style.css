@@ -1,0 +1,34 @@
+.sideBarContainer {
+  display: block;
+  float: right;
+  left: 1300px;
+  background-color: #1f003d;
+  width: 200px;
+  height: 190vh;
+  border-left: 1px solid green;
+  border-radius: 8px;
+}
+
+.sideBarContainer h3 {
+  padding: 5px;
+  border-radius: 4px;
+  text-align: center;
+  padding: 20px;
+  color: white;
+}
+
+.sideBarImg {
+  margin-left: 30px;
+}
+
+.sideBarImg img {
+  height: 150px;
+  width: 150px;
+  border-radius: 8px;
+  margin-top: 25px;
+}
+
+.sideBarImg div {
+  color: white;
+  text-align: center;
+}
